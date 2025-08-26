@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['hand palm open', 'hand thumb and index out', 'hand thumb up']
+
+roboflow:
+  workspace: home-4mpge
+  project: my-first-project-zegfa
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/home-4mpge/my-first-project-zegfa/dataset/3
