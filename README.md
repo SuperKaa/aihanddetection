@@ -8,3 +8,8 @@ this model has 3 simple detections,
 - palm out
 - index finger and thumb out
 examples can be seen in /images
+
+to use just:
+- run pip install ultralytics
+- clone repo
+- then run live.py, this will open a live camera window detecting your hand signs live (requires webcam)
